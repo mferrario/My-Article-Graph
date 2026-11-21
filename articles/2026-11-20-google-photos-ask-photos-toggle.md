@@ -48,4 +48,4 @@ In March 2026 Google Photos backed off making its generative "Ask Photos" the de
 - What did Ask Photos' rollout run into before 2026?
 
 ## Related
-_No other notes yet._
+- [[2026-11-21-graph-engineering-agent-system]]: same-idea, at a different layer. Both route each request to the cheapest path that can handle it (classic search vs. AI here; cheap vs. frontier model there).
